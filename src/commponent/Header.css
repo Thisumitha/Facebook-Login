@@ -2,18 +2,13 @@
     height: 106px;
     margin: -28px;
 }
-.setlay{
-    
-        margin: 0 auto;
-        padding: 200px 0;
-        position: relative;
-        width: 980px;
-    
-}
 .sidefont{
     font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
     font-size: 28px;
     font-weight: normal;
     line-height: 32px;
     width: 500px;
+}
+.btn-success{
+    background-color: rgb(66,183,42);
 }

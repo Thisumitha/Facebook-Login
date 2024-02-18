@@ -1,0 +1,11 @@
+.setlay{
+    
+    margin: 0 auto;
+    padding: 200px 0;
+    position: relative;
+    width: 980px;
+
+}
+.backGroundColor{
+    background-color: rgb(240,242,245);
+}
